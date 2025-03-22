@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c4b56d7-97d9-4f8d-a9e5-857ce70480cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Biblioteca/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/src/biblioteca/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Biblioteca/src/biblioteca/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/postgresql_42_7_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biblioteca.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Biblioteca.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblioteca/Livro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblioteca/Usuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/connection/PostgresConnection.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9c4b56d7-97d9-4f8d-a9e5-857ce70480cd" name="Changes" comment="Biblioteca" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Biblioteca" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -113,6 +95,27 @@
       <option name="presentableId" value="Default" />
       <updated>1742605996905</updated>
     </task>
+    <task id="LOCAL-00001" summary="Biblioteca">
+      <option name="closed" value="true" />
+      <created>1742608314593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742608314593</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Biblioteca">
+      <option name="closed" value="true" />
+      <created>1742608380950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742608380950</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Biblioteca" />
+    <option name="LAST_COMMIT_MESSAGE" value="Biblioteca" />
   </component>
 </project>
